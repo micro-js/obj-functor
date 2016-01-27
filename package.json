@@ -2,7 +2,7 @@
   "name": "@f/obj-functor",
   "description": "Object functor.",
   "repository": "git://github.com/micro-js/obj-functor.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
